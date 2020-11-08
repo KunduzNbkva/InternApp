@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="posts">Posts</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="toolbar_finish">Finish</string>
+    <string name="comments">Comments</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="comment">Comment</string>
+</resources>
