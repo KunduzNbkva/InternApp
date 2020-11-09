@@ -68,7 +68,7 @@ public class PostApiService implements PostApiClient {
         Call<List<PostModel>> getPosts();
 
         @GET("comments")
-        Call<List<CommentModel>> getComments(@Query("id") int id);
+        Call<List<CommentModel>> getComments(@Query("postId") int id);
     }
 
 
